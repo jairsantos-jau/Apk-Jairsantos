@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Jairsantos</string>
+    <string name="projetos_name">Projetos</string>
+    <string name="certificados">Certificados</string>
+    <string name="curriculum">Curriculum</string>
+
+
+    <string-array name="projetos">
+        <item>Projeto 01 Favelacao</item>
+        <item>Projeto 02</item>
+        <item>Projeto 03</item>
+        <item>Projeto 04</item>
+        <item>Projeto 05</item>
+        <item>Projeto 06</item>
+    </string-array>
+    <string name="title_activity_main00">MainActivity00</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+</resources>

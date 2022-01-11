@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Jairsantos</string>
+    <string name="projetos_name">Proyecto</string>
+    <string name="certificados">Certificaciones</string>
+    <string name="curriculum">Plan de Estudios</string>
+
+
+    <string-array name="projetos">
+
+        <item>Proyecto 01 Favelacao</item>
+        <item>Proyecto 02</item>
+        <item>Proyecto 03</item>
+        <item>Proyecto 04</item>
+        <item>Proyecto 05</item>
+        <item>Proyecto 06</item>
+    </string-array>
+</resources>
